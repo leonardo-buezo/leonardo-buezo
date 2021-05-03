@@ -1,7 +1,7 @@
 - 👋 Hello World! I’m @leonardo-buezo, I am a software engineering enthusiast, essentially a brave QA who likes coding! 
 - 👀 I’m interested in ... financials & entrepreneurship, sports (cycling & running).
 - 🌱 I’m currently learning ... Stock Exchange, Fintech businesses and Sport businesses.
-- 💞️ I’m looking to collaborate on ... democratize access to technology in Latin America
+- 💞️ I’m looking to collaborate on ... democratize access to technology and financial education in Latin America.
 - 📫 How to reach me ... [ig: @leobuessi] [tw: @LeoBuezo_Arg]
 
 <!---
