@@ -1,8 +1,8 @@
 - 👋 Hello World! 
   I’m @leonardo-buezo, I am a software engineering enthusiast, essentially a brave QA who likes coding! 
 
-- 👀 I’m interested in ... entrepreneurship, sports (cycling & running), music and Wellness.
-- 💞️ I’m looking to collaborate on ... democratize access to technology and financial education in Latin America.
+- 👀 I’m interested in ... entrepreneurship, sports (swimming, cycling & running), music and Wellness.
+- 💞️ I’m looking to collaborate on ... democratize access to technology and education in Latin America.
 
 - 📫 How to reach me ... [ig: @leobuessi] [tw: @LeoBuezo_Arg]
 
